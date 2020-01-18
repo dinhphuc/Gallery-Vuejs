@@ -1,2 +1,2 @@
-# vue-gallery
-Vue JS + Unsplash API
+# Gallery -  Vue JS 
+Unsplash API
